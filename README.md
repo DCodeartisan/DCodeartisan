@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DCodeartisan
-- 👀 I’m interested in PHP, React
-- 🌱 I’m currently learning Bootstrap, JavaScript
 - 💞️ I’m looking to collaborate on projects where i can show my proficiency and also learn more
 - 📫 How to reach me: Check my profile to reach me via WhatsApp | LinkedIn | E-mail
 - 😄 Pronouns: He
